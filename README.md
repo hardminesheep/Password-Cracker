@@ -14,14 +14,6 @@ This is a python scrypt I made that creates suprisingly good passwords. You ente
   ```
 it creates very realistic looking passwords
 
-## THE SPEED:
-    
-This is a test taken 5 times, on a linux based machine, with special charectors on, generating 1 million passwords
-
-on average 45k passwords generated a second! (test results = 46112.6409959 passwords/s)
-on average it took 23 seconds to generate 1,000,000 passwords! (test results = 21.9234482765 seconds)
-
-
 ## INSTALLATION:
 -you can download the .zip and extract it
 -How to run the program https://www.youtube.com/watch?v=pFYcAOsNyvs
