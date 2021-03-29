@@ -25,10 +25,10 @@ This is a test taken 5 times, on a linux based machine, with special charectors 
 
 ## INSTALLATION:
 
-- download the .zip and extract it
+- Go to the little green button that says code, click on it, download the .zip and extract it to get the files.
 
-- How to run the program https://www.youtube.com/watch?v=pFYcAOsNyvs
+- Then you want to run .py program found in the extracted folder, here is instructions on how to run it: https://www.youtube.com/watch?v=pFYcAOsNyvs
 
-- run in cmd: python "C:/Users/your username/Desktop/V2_pass_find_for_1_email/main.py"
+- run in cmd: python "C:/Users/your username/Desktop/V4_Password_Cracker/main.py"
 
 - IMPORTANT (the scrypt will not work without this): to install the libraries to work go to cmd and run 'pip install colorama' without the ''
