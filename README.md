@@ -11,8 +11,8 @@ This is a python scrypt I made that creates suprisingly good passwords. You ente
   HardMineSheep@gmail.com:Aden5?
   HardMineSheep@gmail.com:Trinity539?
   HardMineSheep@gmail.com:Adaline?
-  it creates very realistic looking passwords
   ```
+it creates very realistic looking passwords
 
     THE SPEED:
     
