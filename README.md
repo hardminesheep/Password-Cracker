@@ -29,6 +29,6 @@ This is a test taken 5 times, on a linux based machine, with special charectors 
 
 - Then you want to run .py program found in the extracted folder, here is instructions on how to run it: https://www.youtube.com/watch?v=pFYcAOsNyvs
 
-- run in cmd: python "C:/Users/your username/Desktop/V4_Password_Cracker/main.py"
+- run in cmd: python "C:/Users/your username/Desktop/Password_Cracker-main/Password_Cracker-main/V4_Password_Cracker.py"
 
 - IMPORTANT (the scrypt will not work without this): to install the libraries to work go to cmd and run 'pip install colorama' without the ''
