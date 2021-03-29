@@ -1,0 +1,20 @@
+    THE SPEED:
+    
+This is a test taken 5 times, on a linux based machine, with special charectors on, generating 1 million passwords
+
+on average 45k passwords generated a second! (test results = 46112.6409959 passwords/s)
+on average it took 23 seconds to generate 1,000,000 passwords! (test results = 21.9234482765 seconds)
+
+I AM TAKING INPUT FROM OTHER PEOPLE, DM !a MineSheep#0334 on discord and give me ideas
+
+    V4 changes:
+
+-incorprate real words into password
+-be able to choose special charectors or not in password
+-more preformance
+-passwords look extremly legit with lots of veriations of where the symbols and numbers are
+-uses names from here https://www.whattoexpect.com/baby-names/list/top-baby-names-for-boys/ and https://www.whattoexpect.com/baby-names/list/top-baby-names-for-girls/
+
+    V5 ideas:
+-more words for program to incorprate
+-able to choose multiple words
