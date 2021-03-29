@@ -1,7 +1,7 @@
     ABOUT
 This is a python scrypt I made that creates suprisingly good passwords. You enter in a email and it will go through a list of a ton of words and will add numbers to the end and in front randomly. you also have the option of including special charectors and amount of passwords to generate.
 
-    OUTPUT:
+    OUTPUT EXAMPLES:
   ```python
   HardMineSheep@gmail.com:?5Orlando
   HardMineSheep@gmail.com:?539Genesis
