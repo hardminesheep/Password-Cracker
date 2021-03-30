@@ -40,3 +40,5 @@ if you have any features or bugs you would like to report please go to the ISSUE
 ## DISCLAIMER
 
 This is just a program that makes a combolist so you can import it into a checker like OpenBullet2: https://github.com/openbullet/OpenBullet2
+
+THIS DOES NOT CHECK PASSWORDS, THAT IS WHAT OPENBULLET IS FOR.
