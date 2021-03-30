@@ -1,3 +1,6 @@
+## BUG AND FEATURE REQUEST
+if you have any features or bugs you would like to report please go to the ISSUE folder and make a comment under one of the files.
+
 ## ABOUT THIS SCRIPT
 This is a python script I made that creates suprisingly legit looking passwords. You enter in a email and it will go through a list of words and will add numbers to the end and in front randomly. you also have the option of including special charectors and amount of passwords to generate.
 
@@ -14,8 +17,7 @@ This is a python script I made that creates suprisingly legit looking passwords.
   ```
 it creates very realistic looking passwords
 
-## THE SPEED:
-    
+## THE SPEED:  
 This is a test taken 5 times, on a linux based machine, with special charectors on, generating 1 million passwords
 
 
@@ -24,7 +26,6 @@ This is a test taken 5 times, on a linux based machine, with special charectors 
 - on average it took 23 seconds to generate 1,000,000 passwords! (test results = 21.9234482765 seconds)
 
 ## INSTALLATION:
-
 - Go to the little green button that says code, click on it, download the .zip and extract it to get the files.
 
 - Then you want to run .py program found in the extracted folder, here is instructions on how to run it: https://www.youtube.com/watch?v=pFYcAOsNyvs
