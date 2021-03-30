@@ -36,3 +36,7 @@ This is a test taken 5 times, on a linux based machine, with special charectors 
 
 ## BUG AND FEATURE REQUEST
 if you have any features or bugs you would like to report please go to the ISSUE folder and make a comment under one of the files.
+
+## DISCLAIMER
+
+This is just a program that makes a combolist so you can import it into a checker like OpenBullet2: https://github.com/openbullet/OpenBullet2
