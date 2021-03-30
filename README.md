@@ -1,7 +1,7 @@
 ## BUG AND FEATURE REQUEST
 if you have any features or bugs you would like to report please go to the ISSUE folder and make a comment under one of the files.
 
-## ABOUT THIS SCRIPT
+## DESCRIPTION
 This is a python script I made that creates suprisingly legit looking passwords. You enter in a email and it will go through a list of words and will add numbers to the end and in front randomly. you also have the option of including special charectors and amount of passwords to generate.
 
 ## OUTPUT EXAMPLES:
@@ -33,3 +33,6 @@ This is a test taken 5 times, on a linux based machine, with special charectors 
 - run in cmd: python "C:/Users/your username/Desktop/Password_Cracker-main/Password_Cracker-main/V4_Password_Cracker.py"
 
 - IMPORTANT (the scrypt will not work without this): to install the libraries to work go to cmd and run 'pip install colorama' without the ''
+
+## BUG AND FEATURE REQUEST
+if you have any features or bugs you would like to report please go to the ISSUE folder and make a comment under one of the files.
