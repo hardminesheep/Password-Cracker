@@ -1,4 +1,4 @@
-##EDUCATIONAL PURPOSES ONLY
+## EDUCATIONAL PURPOSES ONLY
 
 ## BUG AND FEATURE REQUEST
 if you have any features or bugs you would like to report please go to the ISSUE folder and make a comment under one of the files.
